@@ -1,3 +1,7 @@
 hi
 hello
+<<<<<<< HEAD
 welcome
+=======
+bharathi
+>>>>>>> da3dc71afc1d2ff9923f0ade3bf631f4ad9a2ecb
